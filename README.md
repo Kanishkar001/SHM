@@ -1,6 +1,6 @@
 # SHB – Security Headers Boss ![GPL v2](https://img.shields.io/badge/license-GPLv2-blue.svg) ![WP 5.2+](https://img.shields.io/badge/WP-5.2%2B-brightgreen.svg) ![PHP 7.4+](https://img.shields.io/badge/PHP-7.4%2B-orange.svg)
 
-**One‑click HTTP security headers with beginner‑friendly presets and a 60‑second onboarding wizard – built & maintained by [Arun Ammisetty](https://arunammisetty.dev).**
+**One‑click HTTP security headers with beginner‑friendly presets and a 60‑second onboarding wizard.**
 
 ![SHB banner](assets/banner-772x250.png)
 
